@@ -30,7 +30,7 @@
     }
   },
   "metaData": {
-    "icon": "https://jb-iwco-demo.herokuapp.com/icon.png",
+    "icon": "https://jb-iwco-demo.herokuapp.com/public/icon.png",
     "category": "message",
     "iconSmall": null,
     "original_icon": "icon.png",
